@@ -24,8 +24,6 @@
 
 #### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
 
-### [More Details](https://githubachievements.com)
-
 <br>
 
 # 📃 Achievement List 📃
@@ -88,7 +86,6 @@
 <br>
 
 # ℹ️ More information ℹ️
-### [More Details](https://githubachievements.com)
 #### GitHub Achievements [Document](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
